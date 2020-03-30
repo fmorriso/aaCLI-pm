@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "aaCLI-pm"
+    }
+  },
+  "defaultProject": "aaCLI-pm",
+  "cli": {
+    "analytics": false
+  }
 }
